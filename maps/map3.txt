@@ -1,0 +1,19 @@
+bbbbbbbbbbb   bbbbbbbbbbb
+b                       b
+b                       b
+b                       b
+b     pp   s s    p     b
+b          s s          b
+b          s s          b
+.       ssss ssss        
+.           a            
+.       ssss ssss        
+b          s s          b
+b          s s          b
+b     p    s s   pp     b
+b                       b
+b                       b
+b                       b
+b                       b
+bbbbbbbbbbb   bbbbbbbbbbb
+0123456789012345678901234

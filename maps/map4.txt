@@ -1,0 +1,19 @@
+b b b b b b b b b b b b b
+.                       .
+b                       b
+.                       .
+b     pp   s s    p     b
+.          s s          .
+b          s s          b
+.       ssss ssss       .
+b           a           b
+.       ssss ssss       .
+b          s s          b
+.          s s          .
+b     p    s s   pp     b
+.                       .
+b                       b
+.                       .
+b                       b
+b b b b b b b b b b b b b
+0123456789012345678901234
