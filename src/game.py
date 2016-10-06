@@ -5,7 +5,7 @@ from Player import *
 from Apple import *
 from Tile import *
 
-green    = ( 43, 130, 53)
+green    = ( 43, 130,  53)
 grey     = (100, 100, 100)
 black    = (  0,   0,   0)
 white    = (255, 255, 255)
